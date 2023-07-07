@@ -27,6 +27,8 @@
  ``` git branch -d branch_name  ``` (deletes a branch)
 
  <br/>
- ** If you have conflict merging two main branches:
+ If you have conflict merging two main branches:
+(The “fatal: refusing to merge unrelated histories” Git error)
+ 
  
  ``` git pull origin main --allow-unrelated-histories```
