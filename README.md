@@ -1,6 +1,6 @@
 # Github-Cheatsheet
-Github Cheatsheet contains all the commands you are looking for
-
+##### Github Cheatsheet contains all the commands you are looking for
+<br/>
 
 
 
@@ -26,7 +26,7 @@ Github Cheatsheet contains all the commands you are looking for
  
  ``` git branch -d branch_name  ``` (deletes a branch)
 
- 
+ <br/>
  ** If you have conflict merging two main branches:
  
  ``` git pull origin main --allow-unrelated-histories```
